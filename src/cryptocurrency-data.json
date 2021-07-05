@@ -83,12 +83,6 @@
       "paper": "http://docs.bitshares.org/bitshares/papers/index.html",
       "github": "https://github.com/bitshares"
    },
-   "bitconnect": {
-      "description": "A community driven open-source cryptocurrency that allows BitConnect holders to receive interest due to helping maintain the security of the network.",
-      "website": "https://bitconnectcoin.co/",
-      "paper": "",
-      "github": "https://github.com/bitconnectcoin"
-   },
    "tether": {
       "description": "The Tether platform is built on top of open blockchain technologies to allow users to convert fiat cash to digital currency. This is done by tethering the value of the cryptocurrency to the price of national currencies - US Dollar, the Euro and the Yen.",
       "website": "https://tether.to/",
